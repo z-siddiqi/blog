@@ -1,0 +1,12 @@
+# django
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+# environments 
+.env
+
+# ignore vsc folder 
+.vscode/*

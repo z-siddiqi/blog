@@ -9,6 +9,7 @@ verify_ssl = true
 django = "==3.0.*"
 black = "*"
 environs = "*"
+django-taggit = "==1.2.0"
 
 [requires]
 python_version = "3.8"
